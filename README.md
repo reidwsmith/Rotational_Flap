@@ -1,0 +1,1 @@
+One of the common types of local flaps used are rotation flaps. These types of flaps utilize the ability of a local skin flap to advance over a defect usually made from the excision of a lesion. The goal of this code is to ease pre-operative measurement calculations and aid in visualization of flap design and ensure appropriate flap length to cover the patient defect.
